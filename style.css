@@ -6,6 +6,19 @@
   text-align: center;
   margin-top: 7%;
 }
-.intro img {border-radius: 50%;
-max-width: 20%;
-max-height: 20%;
+.intro img {
+   border-radius: 50%;
+   max-width: 20%;
+   max-height: 20%;
+}
+.lista-linha {
+  padding-left: 0;
+  list-style: none;
+}
+.lista-linha li{
+  display: inline-block;
+}
+.font-header{
+font-family: 'Text Me One', sans-serif;
+
+}
